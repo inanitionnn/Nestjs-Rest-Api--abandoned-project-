@@ -1,7 +1,7 @@
 Abandoned project!
 
 Stack:
-typescript
+typescript,
 nestjs,
 postgresql,
 passport (google, local),
